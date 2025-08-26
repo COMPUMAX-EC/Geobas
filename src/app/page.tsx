@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Image from 'next/image'
+import Head from 'next/head'
 
 interface Project {
   id: number
@@ -223,6 +224,9 @@ export default function Portfolio() {
 
   return (
     <>
+      <Head>
+        <title>GB - Compumax</title>
+      </Head>
       {/* CSS personalizado para animaciones y tipografía */}
       <style jsx global>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
@@ -822,7 +826,7 @@ export default function Portfolio() {
                     className="group/social flex items-center gap-1 px-2 py-1.5 bg-gray-600/50 hover:bg-gray-500/70 text-white rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg text-xs font-medium"
                   >
                     <svg className="w-3 h-3 group-hover/social:scale-110 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9v-9m0-9v9" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
                     </svg>
                     Web
                   </a>
