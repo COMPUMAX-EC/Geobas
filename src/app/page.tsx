@@ -46,7 +46,7 @@ export default function Portfolio() {
     {
       id: 1,
       title: "CTT Platform",
-      description: "Plataforma completa de e-commerce con gestión de inventario",
+      description: "CTT UPEC - Centro de Transferencia Tecnológica de la Universidad Politécnica Estatal del Carchi",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
       liveUrl: "https://ctt.compumax.tech",
       githubUrl: "https://github.com/geobas",
