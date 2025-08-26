@@ -48,7 +48,7 @@ export default function Portfolio() {
       title: "CTT Platform",
       description: "Plataforma completa de e-commerce con gestión de inventario",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
-      liveUrl: "https://ctt-platform.demo.com",
+      liveUrl: "https://ctt.compumax.tech",
       githubUrl: "https://github.com/geobas",
       category: "web",
       image: "/assets/projects/ctt.png"
