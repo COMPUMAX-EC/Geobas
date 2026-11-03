@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Geobas · Portafolio de Geovanny Basantes
 
-## Getting Started
+Portafolio personal de **Geovanny Basantes**, desarrollador de software de Ecuador y fundador de la agencia
+**Compumax**. Reúne en una sola página quién soy, en qué proyectos y comunidades participo, y cómo contactarme.
 
-First, run the development server:
+**Sitio en línea:** https://geobas.vercel.app
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Qué encontrarás
+
+- **Proyectos**, como la plataforma del CTT UPEC (Centro de Transferencia Tecnológica de la Universidad Politécnica
+  Estatal del Carchi).
+- **Experiencia y comunidades:** Agencia Compumax, DevCommunity UPEC, IEEE Student Branch UPEC, contribuciones open
+  source y mentoría en el ecosistema de startups.
+- **Herramientas de software gratis** (`/freeTools`): una lista curada de herramientas útiles sin costo.
+- **Contacto:** correo, LinkedIn y GitHub.
+
+## Detalles técnicos
+
+| Capa | Tecnología |
+|---|---|
+| Framework | Next.js 15 (App Router) + React 19 |
+| Lenguaje | TypeScript |
+| Estilos | Tailwind CSS 4 |
+| Despliegue | Vercel |
+
+```
+src/app/page.tsx             página principal
+src/app/freeTools/page.tsx   herramientas gratis
+src/components/              Navbar, Contact
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Ejecutar localmente
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npm run dev      # http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## In English
 
-## Learn More
+Personal portfolio of Geovanny Basantes, software developer from Ecuador and founder of Compumax: projects,
+communities (DevCommunity UPEC, IEEE Student Branch UPEC), a curated list of free tools, and contact links.
+Next.js 15 + React 19 + Tailwind CSS 4 on Vercel.
 
-To learn more about Next.js, take a look at the following resources:
+## Licencia
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+El código está bajo licencia [MIT](LICENSE). Las fotos y los textos personales no forman parte de la licencia.
