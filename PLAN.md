@@ -2,19 +2,19 @@
 
 | | |
 |---|---|
-| **Sector objetivo** | Empresas de software y equipos TI de instituciones grandes (portafolio) |
+| **Sector objetivo** | Consultoría de software y remoto (Stack Builders, empresas remotas) · portafolio |
 | **Segmento** | B |
-| **Esfuerzo asignado** | 5 % del tiempo de proyectos (dentro del 15 % de software y open source) |
+| **Esfuerzo asignado** | 3 % del tiempo de proyectos (dentro del 8 % de consultoría de software) |
 | **Horizonte** | 9-nov-2026 → 31-ene-2027 |
 
 ## Para quién se diseña
 
-Reclutadores y líderes técnicos de empresas de software y de instituciones grandes.
+Reclutadores y líderes técnicos de consultoras de software y empresas remotas, que revisan portafolio y código en inglés.
 
 ## Metas
 
 **Hasta 30-nov-2026**
-- [ ] Sección de proyectos agrupada por sector: banca, energía, datos públicos, empresa privada
+- [ ] Sección de proyectos agrupada por giro: banca y fintech, energía, estadística, farmacéutica
 
 **Hasta 31-dic-2026**
 - [ ] Versión en inglés de la página principal
