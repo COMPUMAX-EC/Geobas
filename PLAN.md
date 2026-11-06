@@ -1,30 +1,17 @@
-# Plan del proyecto
+# Plan del proyecto: en pausa
 
 | | |
 |---|---|
-| **Sector objetivo** | Consultoría de software y remoto (Stack Builders, empresas remotas) · portafolio |
-| **Segmento** | B |
-| **Esfuerzo asignado** | 3 % del tiempo de proyectos (dentro del 8 % de consultoría de software) |
-| **Horizonte** | 9-nov-2026 → 31-ene-2027 |
+| **Estado** | En pausa desde 6-nov-2026 |
+| **Esfuerzo asignado** | 0 % |
+| **Motivo** | El portafolio no tiene giro propio; se actualizará cuando los repos de los 3 giros tengan demo. |
 
-## Para quién se diseña
+El plan de trabajo actual se concentra en tres giros: banca y fintech, energía e hidrocarburos, y estadística y
+planificación. Este proyecto queda como está (sigue público y funcional) y se retoma si su giro vuelve al plan.
 
-Reclutadores y líderes técnicos de consultoras de software y empresas remotas, que revisan portafolio y código en inglés.
+## Para retomarlo
 
-## Metas
-
-**Hasta 30-nov-2026**
-- [ ] Sección de proyectos agrupada por giro: banca y fintech, energía, estadística, farmacéutica
-
-**Hasta 31-dic-2026**
-- [ ] Versión en inglés de la página principal
-
-**Hasta 31-ene-2027**
-- [ ] Enlace a cada demo y a las contribuciones open source aceptadas
-
-## Fuera de alcance
-
-Datos personales sensibles.
+- Cuando haya demos de banca, energía y estadística: agruparlas por giro en la sección de proyectos.
 
 ---
-Revisión cada domingo: avance de metas y horas dedicadas. Plan general de sectores en COMPUMAX-EC/red-contactos-ti (privado).
+Plan general de sectores en COMPUMAX-EC/red-contactos-ti (privado).
