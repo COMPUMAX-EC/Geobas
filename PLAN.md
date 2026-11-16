@@ -1,17 +1,18 @@
-# Plan del proyecto: en pausa
+# Project plan: paused
 
 | | |
 |---|---|
-| **Estado** | En pausa desde 6-nov-2026 |
-| **Esfuerzo asignado** | 0 % |
-| **Motivo** | El portafolio no tiene giro propio; se actualizará cuando los repos de los 3 giros tengan demo. |
+| **Status** | Paused since 6 Nov 2026 |
+| **Allocated effort** | 0% |
+| **Reason** | The portfolio has no sector of its own; it will be updated once the repos of the 3 sectors have demos. |
 
-El plan de trabajo actual se concentra en tres giros: banca y fintech, energía e hidrocarburos, y estadística y
-planificación. Este proyecto queda como está (sigue público y funcional) y se retoma si su giro vuelve al plan.
+The current work plan focuses on three sectors: banking and fintech, energy and hydrocarbons, and statistics and
+planning. This project stays as it is (still public and working) and will be resumed if its sector comes back into the
+plan.
 
-## Para retomarlo
+## To resume it
 
-- Cuando haya demos de banca, energía y estadística: agruparlas por giro en la sección de proyectos.
+- When there are banking, energy and statistics demos: group them by sector in the projects section.
 
 ---
-Plan general de sectores en COMPUMAX-EC/red-contactos-ti (privado).
+Overall sector plan in COMPUMAX-EC/red-contactos-ti (private).
