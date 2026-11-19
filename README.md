@@ -1,47 +1,43 @@
-# Geobas · Portafolio de Geovanny Basantes
+# Geobas · Geovanny Basantes's portfolio
 
-Portafolio personal de **Geovanny Basantes**, desarrollador de software de Ecuador y fundador de la agencia
-**Compumax**. Reúne en una sola página quién soy, en qué proyectos y comunidades participo, y cómo contactarme.
+🇬🇧 **English** · 🇪🇨 [Español](README.es.md)
 
-**Sitio en línea:** https://geobas.vercel.app
+Personal portfolio of **Geovanny Basantes**, software developer from Ecuador and founder of the **Compumax** agency.
+It brings together on a single page who I am, which projects and communities I take part in, and how to reach me.
 
-## Qué encontrarás
+**Live site:** https://geobas.vercel.app (in Spanish)
 
-- **Proyectos**, como la plataforma del CTT UPEC (Centro de Transferencia Tecnológica de la Universidad Politécnica
-  Estatal del Carchi).
-- **Experiencia y comunidades:** Agencia Compumax, DevCommunity UPEC, IEEE Student Branch UPEC, contribuciones open
-  source y mentoría en el ecosistema de startups.
-- **Herramientas de software gratis** (`/freeTools`): una lista curada de herramientas útiles sin costo.
-- **Contacto:** correo, LinkedIn y GitHub.
+## What you will find
 
-## Detalles técnicos
+- **Projects**, such as the platform for CTT UPEC (Technology Transfer Centre of the Universidad Politécnica Estatal
+  del Carchi).
+- **Experience and communities:** Compumax agency, DevCommunity UPEC, IEEE Student Branch UPEC, open-source
+  contributions and mentoring in the startup ecosystem.
+- **Free software tools** (`/freeTools`): a curated list of useful free tools.
+- **Contact:** email, LinkedIn and GitHub.
 
-| Capa | Tecnología |
+## Technical details
+
+| Layer | Technology |
 |---|---|
 | Framework | Next.js 15 (App Router) + React 19 |
-| Lenguaje | TypeScript |
-| Estilos | Tailwind CSS 4 |
-| Despliegue | Vercel |
+| Language | TypeScript |
+| Styling | Tailwind CSS 4 |
+| Deployment | Vercel |
 
 ```
-src/app/page.tsx             página principal
-src/app/freeTools/page.tsx   herramientas gratis
+src/app/page.tsx             home page
+src/app/freeTools/page.tsx   free tools
 src/components/              Navbar, Contact
 ```
 
-### Ejecutar localmente
+### Run locally
 
 ```bash
 npm install
 npm run dev      # http://localhost:3000
 ```
 
-## In English
+## License
 
-Personal portfolio of Geovanny Basantes, software developer from Ecuador and founder of Compumax: projects,
-communities (DevCommunity UPEC, IEEE Student Branch UPEC), a curated list of free tools, and contact links.
-Next.js 15 + React 19 + Tailwind CSS 4 on Vercel.
-
-## Licencia
-
-El código está bajo licencia [MIT](LICENSE). Las fotos y los textos personales no forman parte de la licencia.
+The code is under the [MIT](LICENSE) license. Photos and personal texts are not covered by the license.
